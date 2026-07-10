@@ -23,7 +23,7 @@ Replaces the default Minecraft death sound with the **Heartless Horizon SMP** de
 
 Distributed under the MIT License.
 
-[contributors-shield]: https://img.shields.io/github/contributors/realnrxg/HeartlessHorizonDeath?style=for-the-badge
-[contributors-url]: https://github.com/realnrxg/HeartlessHorizonDeath/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/realnrxg/HeartlessHorizonDeath?style=for-the-badge
-[license-url]: https://github.com/realnrxg/HeartlessHorizonDeath/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/realnrxg/HeartlessHorizon-Death-Sound?style=for-the-badge
+[contributors-url]: https://github.com/realnrxg/HeartlessHorizon-Death-Sound/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/realnrxg/HeartlessHorizon-Death-Sound?style=for-the-badge
+[license-url]: https://github.com/realnrxg/HeartlessHorizon-Death-Sound/blob/master/LICENSE
