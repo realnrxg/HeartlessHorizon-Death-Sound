@@ -1,0 +1,14 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "/home/nrxg/Projects/HeartLessHorizonDeath/build/classes/java/test",
+      "/home/nrxg/Projects/HeartLessHorizonDeath/build/resources/test"
+    ],
+    "main": [
+      "/home/nrxg/Projects/HeartLessHorizonDeath/build/classes/java/main",
+      "/home/nrxg/Projects/HeartLessHorizonDeath/build/resources/main",
+      "/home/nrxg/Projects/HeartLessHorizonDeath/build/devlibs/HeartlessHorizonDeath-1.0-dev.jar"
+    ]
+  }
+}

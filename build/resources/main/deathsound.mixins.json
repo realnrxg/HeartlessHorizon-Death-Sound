@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "com.deathsound.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "DeathSoundMixin",
+        "DeathVolumeMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "deathsound",
+    "version": "1.0",
+    "name": "Heartless Horizon Death Sound",
+    "description": "Replaces the death sound with the Heartless Horizon death.",
+    "authors": [
+        {
+            "name": "nrxg",
+            "contact": {
+                "github": "https://github.com/realnrxg"
+            }
+        }
+    ],
+    "contact": {
+        "homepage": "https://github.com/realnrxg"
+    },
+    "license": "MIT",
+    "icon": "assets/deathsound/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.deathsound.DeathSoundMod"
+        ]
+    },
+    "mixins": [
+        "deathsound.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.19.3",
+        "fabric-api": "*",
+        "minecraft": ">=1.21.11"
+    }
+}

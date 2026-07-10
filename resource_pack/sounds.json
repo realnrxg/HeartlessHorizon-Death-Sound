@@ -1,0 +1,8 @@
+{
+  "death.custom": {
+    "category": "player",
+    "sounds": [
+      "sounds/death"
+    ]
+  }
+}

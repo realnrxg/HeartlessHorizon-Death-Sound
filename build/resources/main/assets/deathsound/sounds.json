@@ -1,0 +1,8 @@
+{
+    "player.death": {
+        "sounds": [
+            "deathsound:death"
+        ],
+        "subtitle": "Player dies"
+    }
+}
