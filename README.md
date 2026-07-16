@@ -5,7 +5,7 @@
 
 Replaces the default Minecraft death sound with the **Heartless Horizon SMP** death sound.
 
-**Minecraft version:** 1.21.11  
+**Minecraft version:** 1.21.11 & 26.2  
 **Requires:** Fabric Loader 0.19+ & Fabric API
 
 ## Commands
